@@ -1,3 +1,4 @@
 Flask
 pandas
-pmdarima
+pmdarima==2.0.4
+numpy==1.26.4
